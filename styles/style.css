@@ -184,6 +184,56 @@ line-height: 30px;
     line-height: 32px; 
     padding: 40px;
 }
+.middle-img{
+    width: 90%;
+ 
+}
+.third-div{
+    margin: 100px 50px;
+}
+.year-24{
+    
+    color: #F00;
+font-size: 48px;
+
+
+}
+.paras{
+    color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+line-height: 32px; 
+
+}
+.imagin{
+    padding-top: 43px;
+}
+#middle-img-id{
+    border: 10px solid  #F00;
+    padding:40px ;
+    border-radius: 50%;
+}
+
+       /* Holidays sales */
+.Holiday{
+    text-align: center;
+    margin: 100px 200px;
+}
+.what{
+    color: #070211;
+    font-size: 24px;
+}
+.sale-h1{
+    font-size: 72px;
+    font-family: Merriweather;
+   
+}
+.paragraph{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    line-height: 32px;
+    padding: 25px 50px; 
+}
+
 
 .group-pic{
  
