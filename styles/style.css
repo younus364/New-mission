@@ -371,6 +371,54 @@ font-size: 20px;
 font-weight: 600;
 text-transform: capitalize;
 } 
+.footar{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; 
+    max-width: 1600px;
+    height: 609px;
+    margin: auto;
+    background-color: #070211;
+
+}
+
+.big{
+    padding-top: 120px;
+    padding-left: 100px;
+    color: #FFF;
+    font-size: 24px;
+    line-height: 40px; 
+}    
+.all{
+    padding-left: 100px;
+   padding-top: 300px; 
+   color: #FFF;
+   font-size: 24px;
+   line-height: normal;
+}
+.section2{
+    padding-top: 250px;
+}
+.call{
+    display: flex;
+    padding-top: 120px;
+    color: #FFF;
+   font-size: 24px;
+   line-height: 40px; 
+}
+.wab{
+    display: flex;
+    color: #FFF;
+    font-size: 24px;
+    line-height: 40px;
+}
+.but{
+    padding-top: 300px;
+    padding-left: 100px;
+    color: #FFF;
+    font-size: 24px;
+   
+}
 
 
 .group-pic{
