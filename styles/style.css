@@ -233,6 +233,59 @@ line-height: 32px;
     line-height: 32px;
     padding: 25px 50px; 
 }
+/* we wark add holidays hrader section */
+.images{
+ 
+    
+    max-width: 1600px;
+    background-position: center;
+    margin: auto;
+
+  
+}
+.jamela{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.name{
+    position: relative;
+
+}
+.mid{
+    position: absolute;
+    left: -150px;
+    top: 0;
+}
+.re-rc{
+   margin-top: -5px;
+ 
+}
+.re-gr{
+    position: absolute;
+    bottom: -175px;
+
+}
+
+.re-Re{
+     
+    margin-right: -23px;
+    
+}
+.bonush{
+    position: relative;
+    
+}
+    /* Our Awesome Portfolio */
+.gift{
+     
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+margin-top: 100px;
+
+}   
 
 
 .group-pic{
